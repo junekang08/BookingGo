@@ -12,9 +12,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/out/production/taxiapi" />
-    <output-test url="file://$MODULE_DIR$/out/test/taxiapi" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
@@ -26,12 +24,12 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Interview/BookingGo/out/artifacts/BookingGo_jar/BookingGo.jar!/" />
+          <root url="jar://$MODULE_DIR$/../BookingGo/out/artifacts/BookingGo_jar/BookingGo.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="BookingGo" level="project" />
+    <orderEntry type="module" module-name="searchtaxi" />
   </component>
 </module>

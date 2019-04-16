@@ -6,7 +6,100 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68ee5d36-9f73-4562-824b-3bd8c9770cb1" name="Default Changelist" comment="" />
+    <list default="true" id="68ee5d36-9f73-4562-824b-3bd8c9770cb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/searchtaxi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/artifacts/searchtaxi_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__com_github_tomakehurst_wiremock_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__com_google_guava_guava_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__junit_junit_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_easymock_easymock_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_hk2_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_multipart_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_javassist_javassist_3_22_0_CR2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_jvnet_mimepull_mimepull_1_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_mockito_mockito_all_1_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_mockito_mockito_core_2_0_5_beta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_20081211.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_powermock_powermock_api_support_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_powermock_powermock_core_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/libraries/Maven__org_powermock_powermock_reflect_1_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taxiapi/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BookingGo_jar/BookingGo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/BookingGo_jar/BookingGo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiServiceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiServiceHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiServiceHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiServiceHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bookinggo/executables/ClientListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bookinggo/executables/ClientListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bookinggo/executables/ClientListenerUsingAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bookinggo/executables/ClientListenerUsingAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bookinggo/searchtaxi/TaxiService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bookinggo/searchtaxi/TaxiService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bookinggo/searchtaxi/TaxiServiceHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bookinggo/searchtaxi/TaxiServiceHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookinggo/searchtaxi/HttpRequestHelperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookinggo/searchtaxi/HttpRequestHelperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookinggo/searchtaxi/TaxiServiceHelperTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookinggo/searchtaxi/TaxiServiceHelperTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bookinggo/searchtaxi/TaxiServiceHelperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bookinggo/searchtaxi/TaxiServiceHelperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/.idea/artifacts/taxiapi_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/.idea/artifacts/taxiapi_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/.idea/libraries/BookingGo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/out/artifacts/taxiapi_war_exploded/WEB-INF/classes/com/bookinggo/taxiapi/BookingGoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/out/artifacts/taxiapi_war_exploded/WEB-INF/classes/com/bookinggo/taxiapi/BookingGoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/out/artifacts/taxiapi_war_exploded/WEB-INF/classes/com/bookinggo/taxiapi/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/out/artifacts/taxiapi_war_exploded/WEB-INF/classes/com/bookinggo/taxiapi/MyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/out/artifacts/taxiapi_war_exploded/WEB-INF/lib/BookingGo.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/out/artifacts/taxiapi_war_exploded/WEB-INF/lib/BookingGo.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/out/production/taxiapi/com/bookinggo/taxiapi/BookingGoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/out/production/taxiapi/com/bookinggo/taxiapi/BookingGoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/out/production/taxiapi/com/bookinggo/taxiapi/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/out/production/taxiapi/com/bookinggo/taxiapi/MyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/src/com/bookinggo/taxiapi/BookingGoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/src/com/bookinggo/taxiapi/BookingGoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../taxiapi/taxiapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../taxiapi/taxiapi.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../Interview/BookingGo/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,26 +140,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1076594657">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="312" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="searchtaxi" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/ApiHelperTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="103" />
+            <state relative-caret-position="45">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="84" />
+            <state relative-caret-position="151">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,12 +186,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiServiceHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
+            <state relative-caret-position="314">
+              <caret line="142" column="67" selection-start-line="142" selection-start-column="67" selection-end-line="142" selection-end-column="67" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1555413407092" expanded="true" signature="4129:5494" ph="..." />
               </folding>
             </state>
           </provider>
@@ -89,8 +200,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiPriceComparatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-164">
-              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <state relative-caret-position="45">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -98,20 +209,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiServiceHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="333">
+              <caret line="97" column="48" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="48" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,13 +234,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="335">
+              <caret line="68" column="43" selection-start-line="68" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -136,7 +243,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/HttpRequestHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="150">
               <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -148,7 +255,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiPriceComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="60">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,7 +268,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/ApiHelper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -194,6 +301,9 @@
       <find>getValidTaxis</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -209,13 +319,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/HttpRequestHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/ApiHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/InputListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiServiceHelperTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiServiceHelper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java" />
       </list>
     </option>
   </component>
@@ -232,6 +342,7 @@
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -247,66 +358,55 @@
             <path>
               <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="BookingGo_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bookinggo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bookinggo" type="462c0819:PsiDirectoryNode" />
-              <item name="executables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bookinggo" type="462c0819:PsiDirectoryNode" />
-              <item name="searchtaxi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="searchtaxi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BookingGo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555280140262" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555418155077" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
@@ -331,17 +431,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TaxiServiceHelperTest">
+  <component name="RunManager" selected="Application.ClientListenerUsingAPI">
     <configuration name="ClientListener" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bookinggo.executables.ClientListener" />
-      <module name="BookingGo" />
+      <module name="searchtaxi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ClientListenerUsingAPI" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.bookinggo.executables.ClientListenerUsingAPI" />
-      <module name="BookingGo" />
+      <module name="searchtaxi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -407,7 +509,7 @@
       </method>
     </configuration>
     <configuration name="com.bookinggo.searchtaxi in BookingGo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BookingGo" />
+      <module name="searchtaxi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bookinggo.searchtaxi.*" />
@@ -415,7 +517,10 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bookinggo.searchtaxi" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -431,8 +536,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TaxiServiceHelperTest" />
         <item itemvalue="JUnit.com.bookinggo.searchtaxi in BookingGo" />
+        <item itemvalue="JUnit.TaxiServiceHelperTest" />
         <item itemvalue="JUnit.TaxiServiceHelperTest.getValidTaxis" />
         <item itemvalue="JUnit.HttpRequestHelperTest" />
         <item itemvalue="JUnit.TaxiServiceHelperTest.printTaxis" />
@@ -453,12 +558,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TaxiServiceHelperTest - 2019.04.14 at 21h 48m 11s.xml">
-      <configuration name="TaxiServiceHelperTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxiServiceHelperTest - 2019.04.14 at 21h 49m 42s.xml">
-      <configuration name="TaxiServiceHelperTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TaxiServiceHelperTest - 2019.04.14 at 21h 50m 55s.xml">
       <configuration name="TaxiServiceHelperTest" configurationId="JUnit" />
     </history-entry>
@@ -483,12 +582,27 @@
     <history-entry file="TaxiServiceHelperTest - 2019.04.14 at 22h 52m 29s.xml">
       <configuration name="TaxiServiceHelperTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_bookinggo_searchtaxi_in_BookingGo - 2019.04.16 at 11h 40m 28s.xml">
+      <configuration name="com.bookinggo.searchtaxi in BookingGo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_bookinggo_searchtaxi_in_BookingGo - 2019.04.16 at 11h 57m 17s.xml">
+      <configuration name="com.bookinggo.searchtaxi in BookingGo" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990792" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -497,11 +611,11 @@
       <window_info id="Favorites" order="6" sideWeight="0.50092083" side_tool="true" weight="0.2532189" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.30828026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.30828026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143063" side_tool="true" weight="0.30828026" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
@@ -567,13 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/InputListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/InputListener.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-client/2.28/jersey-client-2.28.jar!/org/glassfish/jersey/client/ClientConfig.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -581,50 +689,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiServiceHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <marker date="1555279165075" expanded="true" signature="4076:5441" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiPriceComparatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/ApiHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/ApiHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="103" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/HttpRequestHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="150">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -634,8 +708,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiPriceComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/ApiHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiServiceHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="142" column="67" selection-start-line="142" selection-start-column="67" selection-end-line="142" selection-end-column="67" />
+          <folding>
+            <marker date="1555413407092" expanded="true" signature="4129:5494" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/TaxiPriceComparatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiServiceHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="97" column="48" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="48" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -644,20 +763,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="335">
+          <caret line="68" column="43" selection-start-line="68" selection-end-line="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/searchtaxi/TaxiServiceHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bookinggo/searchtaxi/HttpRequestHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="151">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -666,21 +780,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bookinggo/executables/ClientListenerUsingAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -738,7 +839,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>BookingGo</last-edited>
+          <last-edited>searchtaxi</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

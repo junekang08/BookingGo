@@ -7,10 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BookingGo" />
+        <module name="searchtaxi" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="searchtaxi" target="8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

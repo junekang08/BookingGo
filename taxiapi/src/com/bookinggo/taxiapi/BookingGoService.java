@@ -15,8 +15,8 @@ public class BookingGoService {
     public String getTaxis(@QueryParam("passengerCount") int passengerCount
                             , @QueryParam("pickup") String pickup
                             , @QueryParam("dropoff") String dropoff) {
-        TaxiService taxiService = new TaxiService();
-        return taxiService.getTaxi(passengerCount, pickup, dropoff).toString();
+        TaxiService taxiService= new TaxiService(passengerCount, pickup, dropoff);
+        return taxiService.getTaxi();
     }
 }
 

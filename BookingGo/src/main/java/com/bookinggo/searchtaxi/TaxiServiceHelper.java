@@ -3,6 +3,7 @@ package com.bookinggo.searchtaxi;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+import javax.swing.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -90,12 +91,12 @@ public class TaxiServiceHelper {
         return null;
     }
 
-    JSONArray getValidTaxisUsingAPI(int passengerCount, String pickup, String dropoff){
+    public String getValidTaxisUsingAPI(int passengerCount, String pickup, String dropoff){
         try{
             final String domain = "http://localhost:8080/taxiapi_war_exploded/taxis";
             String response = httpRequestHelper
                                 .getJSONResponse(apiHelper.myApiURLBuilder(domain, passengerCount, pickup, dropoff));
-            return new JSONArray(response);
+            return response;
         }
         catch(Exception e){
             e.printStackTrace();

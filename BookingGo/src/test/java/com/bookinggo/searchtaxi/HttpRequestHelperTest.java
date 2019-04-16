@@ -1,5 +1,6 @@
 package com.bookinggo.searchtaxi;
 
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.powermock.api.mockito.PowerMockito;
@@ -22,6 +23,7 @@ import javax.ws.rs.core.Response;
 class HttpRequestHelperTest {
 
     @Test
+    @Disabled
     void getJSONResponse() {
         HttpRequestHelper httpRequestHelper = new HttpRequestHelper();
         String expected = null;
