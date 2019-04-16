@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BookingGo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BookingGo_jar</output-path>
+    <root id="archive" name="BookingGo.jar">
+      <element id="module-output" name="BookingGo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

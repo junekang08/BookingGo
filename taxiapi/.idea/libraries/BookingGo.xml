@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BookingGo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Interview/BookingGo/out/artifacts/BookingGo_jar/BookingGo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

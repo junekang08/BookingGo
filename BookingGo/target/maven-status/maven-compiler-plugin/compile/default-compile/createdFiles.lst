@@ -1,0 +1,6 @@
+com/bookinggo/searchtaxi/ClientListener.class
+com/bookinggo/searchtaxi/HttpRequestHelper.class
+com/bookinggo/searchtaxi/TaxiPriceComparator.class
+com/bookinggo/searchtaxi/TaxiService.class
+com/bookinggo/searchtaxi/TaxiServiceHelper.class
+com/bookinggo/searchtaxi/ApiHelper.class
